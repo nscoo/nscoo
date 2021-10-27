@@ -1,5 +1,9 @@
+### Age
+1995.02.20
 
-### Progamming 
+### Graduate
+Department of Computer Science and Engineering
+### Language 
 Java, javascript, Python, C/C++ ...
 ### hobby
 Baseball 😙
@@ -12,3 +16,9 @@ Gunpo, Korea
 Use API : SmartMirror
 EZEN Academy : Zigme
 Project 1 : Udon
+
+### Interests
+Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi
+
+### Wannabe
+Backend Developer
