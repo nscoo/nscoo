@@ -22,3 +22,9 @@ Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi
 
 ### Wannabe
 Backend Developer
+
+### Studing
+Web Programming(Spring), Coding Test, Alorithm ...
+
+### blog
+https://develop-and-baseball.tistory.com/
