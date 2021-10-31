@@ -3,7 +3,7 @@
 
 ### Graduate
 Department of Computer Science and Engineering
-EzenIT BigData, Machine Learning based on JAVA,Python  
+EzenIT BigData, Machine Learning based on JAVA,Python
 ### Language 
 Java, javascript, Python, C/C++ ...
 ### hobby
@@ -22,7 +22,7 @@ Project 1 : Udon
 Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi
 
 ### Wannabe
-Backend Developer
+Backend Developer, Full Stack Developer
 
 ### Studing
 Web Programming(Spring), Coding Test, Alorithm ...
