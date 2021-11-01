@@ -29,3 +29,4 @@ Web Programming(Spring), Coding Test, Alorithm ...
 
 ### blog
 https://develop-and-baseball.tistory.com/
+https://www.notion.so/bf4a705d276b40afbe62810646ef1cdb
