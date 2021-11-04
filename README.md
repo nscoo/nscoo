@@ -19,7 +19,7 @@ EZEN Academy : Zigme
 Project 1 : Udon
 
 ### Interests
-Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi
+Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi , Baseball, Football, Running ... etc
 
 ### Wannabe
 Backend Developer, Full Stack Developer
