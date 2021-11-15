@@ -13,9 +13,10 @@ Gunpo, Korea
 
 
 ### projects
-Use API : SmartMirror
-EZEN Academy : Zigme
-Project 1 : Udon
+1. SmartMirror(Use OpenAPI)
+2.Zigme (HTML,CSS,Javascript, python, JAVA ...)
+
+Side Project : Udon
 
 ### Interests
 Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi , Baseball, Football, Running ... etc
