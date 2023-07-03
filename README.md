@@ -3,6 +3,8 @@
 ### Age
 1995.02.20
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nscoo)](https://solved.ac/nscoo/)
 ### Graduate
 Department of Computer Science and Engineering
 EzenIT BigData, Machine Learning based on JAVA,Python
