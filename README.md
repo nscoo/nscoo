@@ -1,40 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nscoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Age
-1995.02.20
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nscoo&show_icons=true&theme=transparent)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nscoo)](https://solved.ac/nscoo/)
 
-
-### Graduate
-Department of Computer Science and Engineering
-EzenIT BigData, Machine Learning based on JAVA,Python
-### Language 
-Java, javascript, Python, C/C++ ...
-### hobby
-Baseball 😙
-### live in
-Gunpo, Korea
-
-
-### projects
-1. SmartMirror(Use OpenAPI)
-2.Zigme (HTML,CSS,Javascript, python, JAVA ...)
-
-Side Project : Udon
-
-### Interests
-Use OpenAPI, WebProgramming, Iot, Arduino, raspberry pi , Baseball, Football, Running ... etc
-
-### Wannabe
-Backend Developer, Full Stack Developer
-
-### Studing
-Web Programming(Spring), Coding Test, Alorithm ...
-
-### blog
-https://develop-and-baseball.tistory.com/
-https://www.notion.so/bf4a705d276b40afbe62810646ef1cdb
